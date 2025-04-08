@@ -14,15 +14,16 @@
 
 ###
 
+<div align="right">
+	<a target="_blank" href="https://c.tenor.com/YQOQEO9ETvIAAAAC/tenor.gif"><img align="right" height="275" width="225" src="https://c.tenor.com/YQOQEO9ETvIAAAAC/tenor.gif"></a>
+</div>
+</br>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KinMakeT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<img src="https://media.tenor.com/VRzNZNTeWYMAAAAC/ryo-ryo-yamada.gif" width="200" align="right" />
-<img src="https://media.tenor.com/VRzNZNTeWYMAAAAC/ryo-ryo-yamada.gif" width="200" style="float: right; margin-left: 20px;" />
-
 
 
 <h3 align="center">📫 How to reach me</h3>
