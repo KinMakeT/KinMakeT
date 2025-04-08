@@ -20,6 +20,7 @@
 
 ###
 
+<img src="https://media.tenor.com/VRzNZNTeWYMAAAAC/ryo-ryo-yamada.gif" width="200" align="right" />
 <img src="https://media.tenor.com/VRzNZNTeWYMAAAAC/ryo-ryo-yamada.gif" width="200" style="float: right; margin-left: 20px;" />
 
 
