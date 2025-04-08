@@ -20,7 +20,8 @@
 
 ###
 
-<img src="https://media1.tenor.com/m/YQOQEO9ETvIAAAAC/ryo-ryo-yamada.gif" width="400" />
+<img src="https://media.tenor.com/VRzNZNTeWYMAAAAC/ryo-ryo-yamada.gif" width="200" style="float: right; margin-left: 20px;" />
+
 
 
 <h3 align="center">📫 How to reach me</h3>
