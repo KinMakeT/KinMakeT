@@ -20,7 +20,7 @@
 
 ###
 
-<img src="https://tenor.com/view/ryo-ryo-yamada-yamada-bocchi-bocchi-the-rock-gif-6990589449017249522" width="400" />
+<img src="https://media1.tenor.com/m/YQOQEO9ETvIAAAAC/ryo-ryo-yamada.gif" width="400" />
 
 
 <h3 align="center">📫 How to reach me</h3>
