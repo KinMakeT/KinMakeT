@@ -4,6 +4,10 @@
 
 <h3 align="center">Hi there my name is Prabha, you also can call me Kin!</h3>
 
+<div align="right">
+	<a target="_blank" href="https://www.youtube.com/watch?v=DEXJhsv2tQM"><img align="right" height="275" width="225" src="https://c.tenor.com/YQOQEO9ETvIAAAAC/tenor.gif"></a>
+</div>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -14,10 +18,6 @@
 
 ###
 
-<div align="right">
-	<a target="_blank" href="https://www.youtube.com/watch?v=DEXJhsv2tQM"><img align="right" height="275" width="225" src="https://c.tenor.com/YQOQEO9ETvIAAAAC/tenor.gif"></a>
-</div>
-</br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KinMakeT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
